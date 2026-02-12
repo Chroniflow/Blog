@@ -1,0 +1,20 @@
+- links_category: Elites
+  has_thumbnail: true
+  list:
+    - name: EvanNotFound's Blog
+      link: https://ohevan.com
+      description: 用香港记者的速度更新文章
+      avatar: https://evan.beee.top/avatar.png
+      thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
+
+- links_category: 支持 | Powered By
+  has_thumbnail: false
+  list:
+    - name: Hexo
+      link: https://hexo.io
+      description: Hexo 是一个快速、简洁且高效的博客框架。 Hexo 使用 Markdown（或其他标记语言）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
+      avatar: https://hexo.io/logo.svg
+    - name: EvanNotFound/hexo-theme-redefine
+      link: https://github.com/EvanNotFound/hexo-theme-redefine
+      description: '"Redefine" 是一款简洁、快速、纯粹的 Hexo 主题，其简约之美遥非平凡，让人领略到设计的力量。本主题不仅包含诸多实用丰富的功能，而且赋予了精致而出色的设计理念。'
+      avatar: /images/redefine-favicon.svg
