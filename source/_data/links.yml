@@ -1,11 +1,34 @@
-- links_category: Elites
-  has_thumbnail: true
+- links_category: 挚友 | Best Friend
+  has_thumbnail: false
+  list:
+    - name: 山茶CamelliaTse
+      link: https://camelliatse.com/
+      avatar: https://camelliatse.com/images/camellia-tse-avatar.jpg
+      description: 生活就像海洋，只有意志坚定的人才能到达彼岸……鲨鱼也可以？
+
+- links_category: 朋友 | Friends
+  has_thumbnail: false
+  list:
+    - name: NoahのBlog
+      link: https://blog.noah0932.top/
+      avatar: https://r.ylyq.site/5c584a6f02c842272017f1451bd233a6d3920d475280582b8041791ca5a6c288.jpg
+      description: 努力去发光，而不是被照亮
+      rss: https://blog.noah0932.top/rss.xml
+    - name: xiaoli
+      link: https://blog.xiaoli.top/
+      avatar: https://img.xiaoli.top/b_ebef16bd5df9016c8b030733c307d528.jpg
+      description: 三次元里敲代码，二次元里闯天下
+    # - name: Xiayu
+    #   link: https://xyzz.xyit.net/
+    #   avatar: https://xyzz.xyit.net/img/avatar.webp
+    #   description: 一座横亘于极昼与霁梦之间的意识海回廊
+
+- links_category: 贡献者 | Contributors
   list:
     - name: EvanNotFound's Blog
       link: https://ohevan.com
       description: 用香港记者的速度更新文章
       avatar: https://evan.beee.top/avatar.png
-      thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
 
 - links_category: 支持 | Powered By
   has_thumbnail: false
