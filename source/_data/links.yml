@@ -7,6 +7,10 @@
       description: 努力去发光，而不是被照亮
       # siteshot: https://cdn.tulan.cyou/noah/2026/02/10/d46319e9-604e-4f2b-b1e0-151837482f69.png
       rss: https://blog.noah0932.top/rss.xml
+    - name: xiaoli
+      link: https://blog.xiaoli.top/
+      avatar: https://img.xiaoli.top/b_ebef16bd5df9016c8b030733c307d528.jpg
+      description: 三次元里敲代码，二次元里闯天下
 
 - links_category: 贡献者 | Contributors
   list:
