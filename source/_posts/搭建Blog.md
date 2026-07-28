@@ -1,7 +1,7 @@
 ---
 title: 搭建Blog
 date: 2026-02-11 17:33:44
-tags:
+tags: Building
 ---
 
 > 咱就是说...搭建这个blog花了我好一段时间...

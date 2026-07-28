@@ -12,7 +12,7 @@ info:
   # Site title
   title: 云洛の小屋
   # Site subtitle
-  subtitle: 或许可以在这里找到云洛?
+  subtitle: 𝑇𝑜𝑤𝑎𝑟𝑑𝑠 𝑡ℎ𝑒 𝑆𝑡𝑎𝑟𝑟𝑦 𝑆𝑘𝑦
   # Author name
   author: 云洛Chroniflow
   # Site URL
@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/Avatar.jpeg
+  favicon: /images/Avatar2.JPG
   # Site logo
-  logo: /favicon.jpeg
+  logo: /images/Avatar2.JPG
   # Site avatar
-  avatar: /images/Avatar.jpeg
+  avatar: /images/Avatar2.JPG
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -132,7 +132,8 @@ home_banner:
   # Home banner subtitle
   subtitle:
     text: # subtitle text, array
-      - 在这里或许可以找到云洛?
+      - 向着星空, 相遇即是重逢
+      - 𝑇𝑜𝑤𝑎𝑟𝑑𝑠 𝑡ℎ𝑒 𝑆𝑡𝑎𝑟𝑟𝑦 𝑆𝑘𝑦
     hitokoto: # 一言配置
       enable: true # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -472,3 +473,14 @@ developer:
   # Whether to enable developer mode (only for developers who want to modify the theme source code, not for ordinary users)
   enable: false
 # DEVELOPER MODE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
+
+# MATHJAX CONFIG >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
+# Docs: https://redefine-docs.ohevan.com/zh/docs/plugins/mathjax
+mathjax:
+  tags: none # or 'ams' or 'all'
+  single_dollars: true # enable single dollar signs as in-line math delimiters
+  cjk_width: 0.9 # relative CJK char width
+  normal_width: 0.6 # relative normal (monospace) width
+  append_css: true # add CSS to every page
+  every_page: false # if true, every page will be rendered by mathjax regardless the `mathjax` setting in Front-matter of each article
+# MATHJAX CONFIG <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
