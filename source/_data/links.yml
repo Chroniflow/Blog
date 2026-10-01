@@ -22,6 +22,21 @@
     #   link: https://xyzz.xyit.net/
     #   avatar: https://xyzz.xyit.net/img/avatar.webp
     #   description: 一座横亘于极昼与霁梦之间的意识海回廊
+  
+- links_category: 所属组织 | Organizations
+  list: 
+    - name: 向源互联 | XYIT
+      link: https://www.xyit.net/
+      description: No Discription
+      avatar: https://www.xyit.net/favicon.png
+    - name: 源初计划 | Yuanchu link
+      link: https://yuanchu.link
+      description: No Discription
+      avatar: https://www.yuanchu.link/yuanchu.svg
+    - name: MSC钟码 | MidSanCode
+      link: https://midsancode.com
+      description: 一家vibe coding专业工作室
+      avatar: https://www.midsancode.com/favicon.png
 
 - links_category: 贡献者 | Contributors
   list:
